@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u30_div {
+#u19_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -39,13 +39,13 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#FFFFFF;
 }
-#u30 {
+#u19 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -53,25 +53,25 @@
   width:375px;
   height:40px;
   display:flex;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#FFFFFF;
 }
-#u30 .text {
+#u19 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u30_text {
+#u19_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u31_div {
+#u20_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -85,34 +85,34 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#FF0000;
 }
-#u31 {
+#u20 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:150px;
+  top:180px;
   width:375px;
   height:50px;
   display:flex;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#FF0000;
 }
-#u31 .text {
+#u20 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u31_text {
+#u20_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
